@@ -43,6 +43,7 @@ public class MainActivity extends AppCompatActivity {
                 catch (Exception e)
                 {
                     Toast.makeText(MainActivity.this, R.string.errormsg, Toast.LENGTH_SHORT).show();
+                    result.setText("");
                 }
             }
         });

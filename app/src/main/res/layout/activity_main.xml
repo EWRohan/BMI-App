@@ -43,7 +43,6 @@
         android:layout_height="wrap_content"
         android:id="@+id/txt"
         android:textSize="21sp"
-        android:text="@string/result"
         android:textStyle="bold"
         android:layout_marginTop="11dp"
         />
