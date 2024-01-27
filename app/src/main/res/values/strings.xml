@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">BMI App</string>
+    <string name="edtWt">Enter your Weight</string>
+    <string name="edtHt">Enter your Height</string>
+    <string name="DesHeight">Height</string>
+    <string name="DesWeight">Weight</string>
+    <string name="btntxt">Submit</string>
+    <string name="DesImg">Icon</string>
+    <string name="msgOver">You Are Over Weight</string>
+    <string name="msgUnder">You Are under Weight</string>
+    <string name="msgHealthy">You Are Healthy</string>
+    <string name="result">Result</string>
+    <string name="errormsg">Value Fields cannot remain empty</string>
+
+
+
+
+</resources>
